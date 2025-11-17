@@ -1,0 +1,919 @@
+{
+  "ticker": "VALE3",
+  "empresa": "Vale S.A.",
+  "cnpj": "33.592.510/0001-54",
+  "updatedAt": "2025-10-12T10:30:00Z",
+  "sumario": {
+    "tese": [
+      "Líder global em minério de ferro com vantagem de custo (cash cost US$ 41/t).",
+      "Disciplina de capital sustenta ROIC acima do WACC em ciclo neutro.",
+      "Exposição relevante a demanda asiática e metais para transição energética."
+    ],
+    "ancora": {
+      "crescimento": "CAGR Receita 5a: 4,3%",
+      "rentabilidade": "ROIC: 15,8%",
+      "alavancagem": "Dívida Líq./EBITDA: 0,9x"
+    },
+    "catalisadores": [
+      "Venda de ativos de níquel no Canadá reduz alavancagem.",
+      "Ramp-up de Serra Sul amplia volume com melhor mix."
+    ],
+    "riscos": [
+      "Volatilidade do preço do minério impacta margens.",
+      "Passivos ESG podem gerar desembolsos adicionais."
+    ]
+  },
+  "qualidade": {
+    "moat": [
+      "Escala global com integração mina-ferrovia-porto otimiza custo entregue.",
+      "Portfolio de minério premium gera prêmio de preço e fideliza clientes."
+    ],
+    "cicloCaixa": "Conversão de caixa média de 80% do lucro líquido nos últimos 5 anos.",
+    "poderPreco": "Contratos indexados a benchmarks internacionais sustentam repasse de custos."
+  },
+  "setor": {
+    "tam": "Mercado global de minério de ferro estimado em US$ 180 bi",
+    "posicao": "Top 3 global com participação próxima de 12%",
+    "regulacao": "Exposição ambiental elevada exige compliance ESG rigoroso",
+    "kpisSetoriais": {
+      "cashCost": 41,
+      "premio65fe": 13,
+      "cambioFavoravel": "USD forte beneficia margens"
+    }
+  },
+  "financials": {
+    "receita": [267211000000, 260000000000, 255000000000, 240000000000, 230000000000],
+    "ebitda": [86842000000, 80500000000, 78100000000, 74000000000, 70000000000],
+    "ebit": [65320000000, 60210000000, 58900000000, 55000000000, 52800000000],
+    "lucroLiquido": [35539000000, 32100000000, 31400000000, 30200000000, 28900000000],
+    "capex": [8900000000, 9300000000, 10200000000, 9800000000, 9600000000],
+    "caixa": [44213000000, 42100000000, 39800000000, 37500000000, 35000000000],
+    "dividaBruta": [122450000000, 120000000000, 118200000000, 121000000000, 124000000000],
+    "dividendos12m": 18500000000,
+    "datas": ["2024-12-31", "2023-12-31", "2022-12-31", "2021-12-31", "2020-12-31"]
+  },
+  "kpis": {
+    "cagrReceita5a": 0.043,
+    "margemEBITDA": 0.325,
+    "margemLiquida": 0.133,
+    "dividaLiquida": 78237000000,
+    "divLiqSobreEBITDA": 0.9,
+    "coberturaJuros": 9.4,
+    "fcf": 77942000000,
+    "fcfSobreLL": 2.19,
+    "roe": 0.32,
+    "roic": 0.158,
+    "pl": 6.2,
+    "evEbitda": 5.1,
+    "pvp": 1.6,
+    "dividendYield": 0.071
+  },
+  "dividends": {
+    "payout12m": 0.52,
+    "yield12m": 0.071,
+    "calendario": [
+      { "dataEx": "2024-09-15", "valor": 1.25 },
+      { "dataEx": "2024-06-10", "valor": 1.1 },
+      { "dataEx": "2024-03-12", "valor": 0.95 }
+    ]
+  },
+  "guidance": [
+    {
+      "nome": "Produção minério (Mt)",
+      "unidade": "Mt",
+      "guia": 320,
+      "realizado": 312,
+      "erroAbs": 0.025,
+      "fonte": "https://ri.vale.com/guidance",
+      "data": "2024-12-31"
+    }
+  ],
+  "redflags": [
+    {
+      "tipo": "juridico",
+      "termo": "fato relevante",
+      "severidade": 2,
+      "materialidade": "media",
+      "trecho": "Atualização do acordo de Brumadinho pode gerar novos desembolsos.",
+      "fonte": "https://ri.vale.com/fatos-relevantes",
+      "data": "2024-11-03"
+    }
+  ],
+  "fontes": [
+    { "nome": "CVM - DFP 2024", "url": "https://www.cvm.gov.br/dfp", "data": "2025-02-15" },
+    { "nome": "B3 - Cotações", "url": "https://www.b3.com.br", "data": "2025-02-22" },
+    { "nome": "BCB - Selic", "url": "https://api.bcb.gov.br", "data": "2025-02-20" }
+  ],
+  "comparables": [
+    { "ticker": "VALE3", "empresa": "Vale S.A.", "pl": 6.2, "evEbitda": 5.1, "dividendYield": 0.071, "margemEbitda": 0.33, "roe": 0.32 },
+    { "ticker": "RIO", "empresa": "Rio Tinto", "pl": 8.4, "evEbitda": 6.2, "dividendYield": 0.055, "margemEbitda": 0.31, "roe": 0.28 },
+    { "ticker": "BHP", "empresa": "BHP Group", "pl": 9.1, "evEbitda": 6.8, "dividendYield": 0.049, "margemEbitda": 0.29, "roe": 0.26 },
+    { "ticker": "CSNA3", "empresa": "CSN", "pl": 7.3, "evEbitda": 5.9, "dividendYield": 0.042, "margemEbitda": 0.24, "roe": 0.19 }
+  ],
+  "kpiDetalhado": {
+    "cagr_receita_5a": {
+      "valor": 0.043,
+      "unidade": "%",
+      "periodo": "FY-5y",
+      "fonte": { "nome": "CVM - DFP 2024", "url": "https://www.cvm.gov.br/dfp", "data": "2025-02-15" },
+      "calculoDetalhado": {
+        "formula": "(ReceitaAtual / ReceitaInicial)^(1/n) - 1",
+        "inputs": { "ReceitaAtual": 267211000000, "ReceitaInicial": 230000000000, "n": 4 }
+      }
+    }
+  },
+  "series": {
+    "anual": [
+      { "data": "2024-12-31", "receita": 267211000000, "lucro": 35539000000, "ebitda": 86842000000, "capex": 8900000000 },
+      { "data": "2023-12-31", "receita": 260000000000, "lucro": 32100000000, "ebitda": 80500000000, "capex": 9300000000 },
+      { "data": "2022-12-31", "receita": 255000000000, "lucro": 31400000000, "ebitda": 78100000000, "capex": 10200000000 },
+      { "data": "2021-12-31", "receita": 240000000000, "lucro": 30200000000, "ebitda": 74000000000, "capex": 9800000000 },
+      { "data": "2020-12-31", "receita": 230000000000, "lucro": 28900000000, "ebitda": 70000000000, "capex": 9600000000 }
+    ],
+    "trimestral": []
+  },
+  "valuation": {
+    "precoAtual": 64.27,
+    "marketCap": 267211000000,
+    "enterpriseValue": 345448000000,
+    "volume2m": 1018380000,
+    "volumeAvg2m": 1018380000,
+    "multiplos": {
+      "pl": 6.4,
+      "evEbitda": 4.4,
+      "pvp": 1.8,
+      "dividendYield": 0.071
+    },
+    "multiples": {
+      "pe": 6.4,
+      "ev_ebitda": 4.4,
+      "pv": 1.8,
+      "ev_fcf": 8.2,
+      "dividendYield": 7.1
+    },
+    "comparables": [
+      {
+        "company": "Rio Tinto",
+        "ticker": "RIO.L",
+        "multiple": "EV/EBITDA",
+        "value": "5,2x",
+        "premium": "+18%",
+        "justification": "Maior diversificação geográfica e de produtos"
+      },
+      {
+        "company": "BHP",
+        "ticker": "BHP.AX",
+        "multiple": "EV/EBITDA",
+        "value": "5,6x",
+        "premium": "+27%",
+        "justification": "Portfólio diversificado (cobre, petróleo, potássio)"
+      },
+      {
+        "company": "Fortescue",
+        "ticker": "FMG.AX",
+        "multiple": "EV/EBITDA",
+        "value": "4,7x",
+        "premium": "+7%",
+        "justification": "Peer mais próximo (foco em minério), menor qualidade"
+      }
+    ],
+    "dcf": {
+      "fairValue": "R$ 72,50",
+      "upside": "12,8%",
+      "wacc": 0.105,
+      "g": 0.025,
+      "terminalGrowth": 2.5,
+      "sensibilidades": {
+        "WACC +0,5 p.p.": -0.06,
+        "Minério -US$10/t": -0.08,
+        "Prêmio 65% +US$5/t": 0.05,
+        "BRL/USD +R$ 0,20": 0.04
+      }
+    }
+  },
+  "checklist": {
+    "health": {
+      "category": "Saúde financeira",
+      "score": 4,
+      "maxScore": 5,
+      "items": [
+        { "check": "ROIC acima do WACC", "status": true },
+        { "check": "Alavancagem controlada (<2x)", "status": true },
+        { "check": "Conversão de caixa consistente", "status": true }
+      ]
+    },
+    "growth": {
+      "category": "Crescimento",
+      "score": 3,
+      "maxScore": 4,
+      "items": [
+        { "check": "CAGR receita saudável", "status": true },
+        { "check": "Capex alinhado ao FCF", "status": true }
+      ]
+    }
+  },
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "title": "Análise Fundamentalista Completa - GAMBIT",
+  "description": "Template completo para análise fundamentalista com citações e fórmulas auditáveis",
+  "example": {
+    "ticker": "VALE3",
+    "company": "Vale S.A.",
+    "lastUpdate": "2025-10-12T10:30:00Z",
+    "summary": {
+      "thesis": [
+        "Líder global em minério de ferro com vantagem de custo (cash cost US$ 41/t).",
+        "Disciplina de capital sustenta ROIC acima do WACC em ciclo neutro.",
+        "Exposição relevante a demanda asiática e metais para transição energética."
+      ],
+      "anchorMetrics": [
+        {
+          "label": "CAGR Receita 5a",
+          "value": "4,3%",
+          "context": "Prêmio de qualidade e mix de metais básicos.",
+          "formula": "(Receita_2024 / Receita_2019)^(1/5) - 1",
+          "calculation": {
+            "inputs": {
+              "Receita_2024": 267211000000,
+              "Receita_2019": 218493000000
+            },
+            "steps": [
+              "Razão: 267211 / 218493 = 1,223",
+              "Raiz quinta: 1,223^(1/5) = 1,043",
+              "CAGR: 1,043 - 1 = 0,043 (4,3%)"
+            ]
+          },
+          "cite": {
+            "source": "DFP 2020-2024",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "62",
+            "table": "Demonstração do Resultado",
+            "metric": "Receita líquida"
+          }
+        },
+        {
+          "label": "ROIC 12m",
+          "value": "15,8%",
+          "context": "Spread de ~5 p.p. sobre WACC estimado (10,5%).",
+          "formula": "ROIC = NOPAT / Capital investido médio",
+          "calculation": {
+            "inputs": {
+              "NOPAT": 53420000000,
+              "CapitalInvestidoMedio": 338700000000
+            },
+            "steps": [
+              "NOPAT ajustado: EBIT 65,0 bi * (1 - 18%) = 53,4 bi",
+              "ROIC: 53,4 / 338,7 = 0,158 (15,8%)"
+            ]
+          },
+          "cite": {
+            "source": "DFP 2024",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "78",
+            "metric": "ROIC ajustado"
+          }
+        },
+        {
+          "label": "Dívida líquida/EBITDA",
+          "value": "0,9x",
+          "context": "Abaixo do target interno de 1,5x e da média histórica.",
+          "formula": "(Dívida bruta - Caixa) / EBITDA ajustado",
+          "calculation": {
+            "inputs": {
+              "DividaBruta": 122450000000,
+              "Caixa": 44213000000,
+              "EBITDA": 86842000000
+            },
+            "steps": [
+              "Dívida líquida: 122450 - 44213 = 78.237",
+              "Alavancagem: 78.237 / 86.842 = 0,90x"
+            ]
+          },
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "54",
+            "metric": "Dívida líquida"
+          }
+        }
+      ],
+      "catalysts": [
+        {
+          "title": "Venda de ativos de níquel no Canadá",
+          "timing": "2S25",
+          "impact": "Reforça foco em minério premium e reduz alavancagem.",
+          "probability": "alta",
+          "cite": {
+            "source": "Fato Relevante 15/03/2025",
+            "url": "https://ri.vale.com/..."
+          }
+        },
+        {
+          "title": "Ramp-up Serra Sul 120Mt",
+          "timing": "2025-2026",
+          "impact": "Aumenta volume com custo unitário menor.",
+          "probability": "média",
+          "cite": {
+            "source": "Plano de Investimentos 2025",
+            "url": "https://ri.vale.com/..."
+          }
+        }
+      ],
+      "risks": [
+        {
+          "title": "Preço do minério",
+          "detail": "Cada -US$10/t reduz EBITDA em ~US$ 2,5 bi.",
+          "severity": "alto",
+          "probability": "média",
+          "mitigation": "Contratos indexados e hedge parcial de custos."
+        },
+        {
+          "title": "Passivos ESG/jurídicos",
+          "detail": "Provisionamentos extras possíveis em Brumadinho/Mariana.",
+          "severity": "alto",
+          "probability": "média",
+          "mitigation": "Provisões atuais de R$ 38 bi, seguro parcial."
+        }
+      ]
+    },
+    "quality": {
+      "moat": [
+        {
+          "type": "Custo",
+          "description": "Logística integrada (ferrovia + porto) reduz custo entregue.",
+          "strength": "forte"
+        },
+        {
+          "type": "Qualidade",
+          "description": "Portfólio de minério de alta qualidade gera prêmio de preço.",
+          "strength": "forte"
+        }
+      ],
+      "cashCycle": {
+        "conversionRate": "87%",
+        "description": "Conversão de lucro em caixa média de 87% nos últimos 5 anos.",
+        "capexMaintenance": "US$ 5 bi/ano",
+        "workingCapital": "Negativo saudável (antecipação de clientes)"
+      },
+      "pricingPower": {
+        "level": "moderado",
+        "description": "Contratos indexados ao Platts suavizam volatilidade.",
+        "flexibilidade": "Blend com terceiros amplia flexibilidade comercial."
+      },
+      "roicAnalysis": {
+        "roic5y": [
+          { "year": 2020, "value": 12.3 },
+          { "year": 2021, "value": 18.7 },
+          { "year": 2022, "value": 14.2 },
+          { "year": 2023, "value": 16.1 },
+          { "year": 2024, "value": 15.8 }
+        ],
+        "wacc": 10.5,
+        "spread": 5.3,
+        "consistency": "ROIC > WACC por 5 anos consecutivos"
+      }
+    },
+    "sector": {
+      "overview": [
+        "Demanda global de aço moderada compensada por crescimento ex-China.",
+        "Projetos concorrentes sofrem atrasos (Samarco, Simandou).",
+        "Câmbio BRL/USD ainda favorece margens exportadoras."
+      ],
+      "tam": {
+        "size": "US$ 180 bi",
+        "growth": "2,5% CAGR 2024-2028",
+        "drivers": ["Infraestrutura asiática", "Transição energética", "Reshoring industrial"]
+      },
+      "marketShare": {
+        "global": "12,3%",
+        "rank": 1,
+        "competitors": ["Rio Tinto", "BHP", "Fortescue"]
+      },
+      "regulation": {
+        "type": "Não regulado (preço livre)",
+        "environmentalRisks": "Licenciamento ambiental rigoroso",
+        "esgRequirements": "Crescente pressão para descarbonização"
+      },
+      "metrics": [
+        {
+          "label": "Cash cost",
+          "value": "US$ 41/t",
+          "trend": "-3% a/a",
+          "benchmark": "Quartil inferior da curva de custo global"
+        },
+        {
+          "label": "Prêmio 65% Fe",
+          "value": "US$ 13/t",
+          "trend": "estável",
+          "benchmark": "Prêmio acima da média histórica"
+        },
+        {
+          "label": "Exposição câmbio",
+          "value": "Sem hedge",
+          "trend": "USD favorece",
+          "benchmark": "BRL depreciado amplia margem"
+        }
+      ]
+    },
+    "financials": {
+      "dre": [
+        {
+          "metric": "CAGR Receita 5a",
+          "value": "4,3%",
+          "formula": "(Receita_2024 / Receita_2019)^(1/5) - 1",
+          "calculation": {
+            "inputs": {
+              "Receita_2024": 267211000000,
+              "Receita_2019": 218493000000
+            },
+            "steps": [
+              "Razão: 267211 / 218493 = 1,223",
+              "Raiz quinta: 1,223^(1/5) = 1,043",
+              "CAGR: 1,043 - 1 = 0,043 = 4,3%"
+            ]
+          },
+          "explain": "Crescimento sustentado por prêmio de qualidade e diversificação em metais básicos.",
+          "cite": {
+            "source": "DFP 2024, DFP 2019",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "62",
+            "table": "Demonstração do Resultado do Exercício"
+          }
+        },
+        {
+          "metric": "Margem EBITDA",
+          "value": "32,5%",
+          "formula": "EBITDA / Receita",
+          "calculation": {
+            "inputs": {
+              "EBITDA": 86842000000,
+              "Receita": 267211000000
+            },
+            "steps": [
+              "Margem: 86842 / 267211 = 0,325 = 32,5%"
+            ]
+          },
+          "explain": "Acima da média global mesmo com pressão de custos operacionais.",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "40",
+            "table": "EBITDA Ajustado"
+          }
+        },
+        {
+          "metric": "Margem Líquida",
+          "value": "13,3%",
+          "formula": "Lucro Líquido / Receita",
+          "calculation": {
+            "inputs": {
+              "LucroLiquido": 35539000000,
+              "Receita": 267211000000
+            },
+            "steps": [
+              "Margem: 35539 / 267211 = 0,133 = 13,3%"
+            ]
+          },
+          "explain": "Impactos de provisões ESG e despesas financeiras reduzem margem vs EBITDA.",
+          "cite": {
+            "source": "ITR 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "18"
+          }
+        }
+      ],
+      "balance": [
+        {
+          "metric": "Dívida Líquida/EBITDA",
+          "value": "0,9x",
+          "formula": "(Dívida Bruta - Caixa e Equivalentes) / EBITDA",
+          "calculation": {
+            "inputs": {
+              "DividaBruta": 122450000000,
+              "Caixa": 44213000000,
+              "EBITDA": 86842000000
+            },
+            "steps": [
+              "Dívida Líquida: 122450 - 44213 = 78237",
+              "Alavancagem: 78237 / 86842 = 0,90x"
+            ]
+          },
+          "explain": "Confortável para manutenção de rating investment grade (BBB+).",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "54",
+            "table": "Endividamento"
+          }
+        },
+        {
+          "metric": "Cobertura de Juros",
+          "value": "9,4x",
+          "formula": "EBIT / Despesa Financeira",
+          "calculation": {
+            "inputs": {
+              "EBIT": 62340000000,
+              "DespesaFinanceira": 6628000000
+            },
+            "steps": [
+              "Cobertura: 62340 / 6628 = 9,4x"
+            ]
+          },
+          "explain": "Espaço para alta adicional de juros globais sem comprometer capacidade de pagamento.",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "36"
+          }
+        },
+        {
+          "metric": "Capital de Giro",
+          "value": "-R$ 12 bi",
+          "formula": "Ativo Circulante Operacional - Passivo Circulante Operacional",
+          "calculation": {
+            "inputs": {
+              "AtivoCirculante": 88450000000,
+              "PassivoCirculante": 100650000000,
+              "Caixa": 44213000000,
+              "DividaCP": 32013000000
+            },
+            "steps": [
+              "ACO: 88450 - 44213 = 44237",
+              "PCO: 100650 - 32013 = 68637",
+              "Capital Giro: 44237 - 68637 = -24400 (simplificado)"
+            ]
+          },
+          "explain": "Modelo negativo saudável devido a antecipação de clientes e eficiência operacional.",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "50"
+          }
+        }
+      ],
+      "fcf": [
+        {
+          "metric": "FCF 12m",
+          "value": "US$ 9,8 bi",
+          "formula": "Fluxo Caixa Operacional - Capex de Manutenção",
+          "calculation": {
+            "inputs": {
+              "FCO": 15700000000,
+              "CapexManutencao": 5900000000
+            },
+            "steps": [
+              "FCF: 15700 - 5900 = 9800 milhões"
+            ]
+          },
+          "explain": "Conversão de lucro em caixa de 92%, acima da média histórica.",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "70",
+            "table": "Fluxo de Caixa"
+          }
+        },
+        {
+          "metric": "Capex Total 12m",
+          "value": "US$ 5,9 bi",
+          "formula": "Capex Manutenção + Capex Crescimento",
+          "calculation": {
+            "inputs": {
+              "CapexManutencao": 3400000000,
+              "CapexCrescimento": 2500000000
+            },
+            "steps": [
+              "Capex Total: 3400 + 2500 = 5900 milhões"
+            ]
+          },
+          "explain": "Projetos Serra Sul e descarbonização respondem por 60% do capex de crescimento.",
+          "cite": {
+            "source": "Plano de Investimentos 2025",
+            "url": "https://ri.vale.com/...",
+            "page": "7"
+          }
+        },
+        {
+          "metric": "FCF / Lucro Líquido",
+          "value": "92%",
+          "formula": "FCF / Lucro Líquido",
+          "calculation": {
+            "inputs": {
+              "FCF": 9800000000,
+              "LucroLiquido": 10652000000
+            },
+            "steps": [
+              "Taxa Conversão: 9800 / 10652 = 0,92 = 92%"
+            ]
+          },
+          "explain": "Qualidade de lucro acima da média histórica (85%). Indica baixa capitalização de despesas.",
+          "cite": {
+            "source": "DFP 4T24",
+            "url": "https://www.cvm.gov.br/...",
+            "page": "72"
+          }
+        }
+      ]
+    },
+    "capitalAllocation": {
+      "policy": {
+        "description": "Distribuir 30-40% do FCF em dividendos ordinários + extraordinários conforme geração de caixa.",
+        "priority": "1) Manutenção, 2) Projetos aprovados, 3) Dividendos base, 4) Recompra/dividendos extras",
+        "cite": {
+          "source": "Política de Remuneração 2024",
+          "url": "https://ri.vale.com/..."
+        }
+      },
+      "dividends": {
+        "payout12m": "45%",
+        "yield12m": "7,1%",
+        "paymentFrequency": "Semestral + extraordinários",
+        "history5y": [
+          { "year": 2020, "total": 2.15, "yield": 3.8 },
+          { "year": 2021, "total": 8.32, "yield": 12.1 },
+          { "year": 2022, "total": 5.67, "yield": 8.9 },
+          { "year": 2023, "total": 4.23, "yield": 6.5 },
+          { "year": 2024, "total": 4.56, "yield": 7.1 }
+        ]
+      },
+      "buyback": {
+        "program": "Ativo desde 2023",
+        "purchased12m": "1,8% do float",
+        "amountRemaining": "US$ 2,5 bi autorizados"
+      },
+      "reinvestmentROIC": {
+        "description": "Retorno sobre capital reinvestido",
+        "formula": "∆EBIT / Capex Incremental",
+        "value": "14,2%",
+        "cite": {
+          "source": "Apresentação Investor Day 2024"
+        }
+      }
+    },
+    "guidance": {
+      "accuracy3y": "92%",
+      "history": [
+        {
+          "year": 2024,
+          "metrics": [
+            {
+              "metric": "Produção minério (Mt)",
+              "guidance": "320",
+              "actual": "312",
+              "error": "-2,5%",
+              "cite": { "source": "Guidance 2024", "url": "..." }
+            },
+            {
+              "metric": "Capex total (US$ bi)",
+              "guidance": "6,0",
+              "actual": "5,8",
+              "error": "-3,3%",
+              "cite": { "source": "DFP 4T24" }
+            },
+            {
+              "metric": "Cash cost (US$/t)",
+              "guidance": "41",
+              "actual": "41,5",
+              "error": "1,2%",
+              "cite": { "source": "DFP 4T24" }
+            }
+          ]
+        }
+      ],
+      "current": {
+        "year": 2025,
+        "metrics": [
+          {
+            "metric": "Produção minério (Mt)",
+            "guidance": "325-335",
+            "cite": { "source": "Guidance 2025", "url": "..." }
+          },
+          {
+            "metric": "Capex total (US$ bi)",
+            "guidance": "6,2-6,8",
+            "cite": { "source": "Guidance 2025" }
+          }
+        ]
+      }
+    },
+    "valuation": {
+      "precoAtual": 64.27,
+      "marketCap": 267211000000,
+      "enterpriseValue": 345448000000,
+      "volume2m": 1018380000,
+      "volumeAvg2m": 1018380000,
+      "multiplos": {
+        "pl": 6.4,
+        "evEbitda": 4.4,
+        "pvp": 1.8,
+        "dividendYield": 0.071
+      },
+      "multiples": {
+        "pe": 6.4,
+        "ev_ebitda": 4.4,
+        "pv": 1.8,
+        "ev_fcf": 8.2,
+        "dividendYield": 7.1
+      },
+      "comparables": [
+        {
+          "company": "Rio Tinto",
+          "ticker": "RIO.L",
+          "multiple": "EV/EBITDA",
+          "value": "5,2x",
+          "premium": "+18%",
+          "justification": "Maior diversificação geográfica e de produtos"
+        },
+        {
+          "company": "BHP",
+          "ticker": "BHP.AX",
+          "multiple": "EV/EBITDA",
+          "value": "5,6x",
+          "premium": "+27%",
+          "justification": "Portfólio diversificado (cobre, petróleo, potássio)"
+        },
+        {
+          "company": "Fortescue",
+          "ticker": "FMG.AX",
+          "multiple": "EV/EBITDA",
+          "value": "4,7x",
+          "premium": "+7%",
+          "justification": "Peer mais próximo (foco em minério), menor qualidade"
+        }
+      ],
+      "dcf": {
+        "fairValue": "R$ 72,50",
+        "upside": "12,8%",
+        "wacc": 0.105,
+        "g": 0.025,
+        "terminalGrowth": 2.5,
+        "sensitivities": [
+          { "label": "WACC +0,5 p.p.", "impact": "-6% no preço alvo" },
+          { "label": "Minério -US$10/t", "impact": "-8% no preço alvo" },
+          { "label": "Prêmio 65% +US$5/t", "impact": "+5% no preço alvo" },
+          { "label": "BRL/USD +R$ 0,20", "impact": "+4% no preço alvo" }
+        ]
+      }
+    },
+    "redFlags": [
+      {
+        "label": "Passivos ESG",
+        "severity": "alto",
+        "recency": "contínuo",
+        "description": "Processos Brumadinho/Mariana podem gerar novos desembolsos além dos R$ 38 bi provisionados.",
+        "materiality": "alta",
+        "cite": {
+          "source": "Notas Explicativas 4T24",
+          "url": "...",
+          "page": "124"
+        }
+      },
+      {
+        "label": "Dependência China",
+        "severity": "médio",
+        "recency": "estrutural",
+        "description": "58% da receita ligada a demanda chinesa. Desaceleração impacta volumes e preços.",
+        "materiality": "alta",
+        "cite": {
+          "source": "Release 4T24",
+          "url": "...",
+          "page": "8"
+        }
+      },
+      {
+        "label": "Impairment potencial em ativos de níquel",
+        "severity": "médio",
+        "recency": "2024",
+        "description": "Queda de preços pode forçar reconhecimento de perdas.",
+        "materiality": "média",
+        "cite": {
+          "source": "DFP 4T24, Nota 12",
+          "url": "..."
+        }
+      }
+    ],
+    "catalysts": [
+      {
+        "date": "2025-05-03",
+        "title": "Resultado 1T25",
+        "detail": "Atualização de guidance e capex. Expectativa de manutenção de dividendos.",
+        "type": "resultado"
+      },
+      {
+        "date": "2025-06-15",
+        "title": "AGO - Pagamento dividendo",
+        "detail": "Deliberação sobre proventos extraordinários e recompra.",
+        "type": "corporativo"
+      },
+      {
+        "date": "2025-09-01",
+        "title": "Investor Day",
+        "detail": "Roadmap de descarbonização, metas ESG 2030 e alocação de capital.",
+        "type": "estratégico"
+      }
+    ],
+    "checklist": {
+      "health": {
+        "category": "Saúde financeira",
+        "score": 4,
+        "maxScore": 5,
+        "items": [
+          { "check": "ROIC > WACC por 3-5 anos", "status": true },
+          { "check": "Cobertura de juros > 3x", "status": true },
+          { "check": "FCF consistente", "status": true },
+          { "check": "Estrutura de capital resiliente", "status": true },
+          { "check": "Working capital eficiente", "status": false, "note": "Estruturalmente negativo (positivo para modelo)" }
+        ]
+      },
+      "growth": {
+        "category": "Crescimento",
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          { "check": "CAGR alinhado a peers", "status": true },
+          { "check": "Capex financiado com caixa próprio", "status": true },
+          { "check": "Projetos de crescimento aprovados", "status": true },
+          { "check": "ROIC em novos projetos > WACC", "status": false, "note": "Em validação (Serra Sul)" }
+        ]
+      },
+      "governance": {
+        "category": "Governança",
+        "score": 3,
+        "maxScore": 4,
+        "items": [
+          { "check": "Política de capital clara e pública", "status": true },
+          { "check": "Histórico de guidance confiável (>85%)", "status": true },
+          { "check": "Board independente", "status": true },
+          { "check": "Transparência em passivos ESG", "status": false, "note": "Melhorou, mas incertezas persistem" }
+        ]
+      },
+      "valuation": {
+        "category": "Valuation",
+        "score": 3,
+        "maxScore": 3,
+        "items": [
+          { "check": "Desconto vs pares justificado", "status": true },
+          { "check": "Upside depende de catalisadores realistas", "status": true },
+          { "check": "Margem de segurança presente", "status": true }
+        ]
+      }
+    },
+    "sources": {
+      "primary": [
+        { "type": "CVM", "description": "DFPs, ITRs, Fatos Relevantes", "url": "https://www.cvm.gov.br" },
+        { "type": "RI", "description": "Releases, apresentações, políticas", "url": "https://ri.vale.com" },
+        { "type": "B3", "description": "Cotações, proventos, calendário", "url": "https://www.b3.com.br" }
+      ],
+      "secondary": [
+        { "type": "IBGE", "description": "Dados macroeconômicos Brasil" },
+        { "type": "BCB", "description": "Taxas de juros, câmbio" }
+      ]
+    }
+  },
+  "healthScore": {
+    "total": 82,
+    "max": 100,
+    "updatedAt": "2025-02-22T10:00:00Z",
+    "pillars": [
+      { "label": "Rentabilidade", "score": 22, "maxScore": 25, "rationale": ["ROIC 15,8% vs WACC 12,7%", "Spread positivo"] },
+      { "label": "Crescimento", "score": 18, "maxScore": 25, "rationale": ["CAGR receita 4,3%"] },
+      { "label": "Estrutura", "score": 20, "maxScore": 25, "rationale": ["Dívida Líq./EBITDA 0,9x", "Cobertura juros 9,4x"] },
+      { "label": "Geração de Caixa", "score": 22, "maxScore": 25, "rationale": ["FCF/LL 2,19x", "Yield 7,1%"] }
+    ]
+  },
+  "verdict": {
+    "status": "desconto",
+    "upsideBase": 0.18,
+    "range": { "bear": 0.08, "bull": 0.28 },
+    "rationale": [
+      "EV/EBITDA atual 5,1x vs pares 6,0x",
+      "Dividend Yield acima de 7%",
+      "Spread ROIC-WACC positivo"
+    ],
+    "assumptions": {
+      "wacc": 0.1275,
+      "g": 0.02,
+      "ebitdaDelta": 0.05
+    }
+  },
+  "checklist": {
+    "health": {
+      "category": "Saude financeira",
+      "score": 4,
+      "maxScore": 5,
+      "items": [
+        { "check": "ROIC acima do WACC", "status": true },
+        { "check": "Alavancagem controlada (<2x)", "status": true },
+        { "check": "Conversao de caixa consistente", "status": true }
+      ]
+    },
+    "growth": {
+      "category": "Crescimento",
+      "score": 3,
+      "maxScore": 4,
+      "items": [
+        { "check": "CAGR receita saudavel", "status": true },
+        { "check": "Capex alinhado ao FCF", "status": true }
+      ]
+    }
+  }
+}

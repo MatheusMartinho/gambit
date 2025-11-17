@@ -1,0 +1,264 @@
+﻿{
+    "ticker":  "VALE3",
+    "fetchedAt":  "2025-11-17T22:41:47.218Z",
+    "company":  {
+                    "name":  "VALE ON NM",
+                    "ticker":  "VALE3",
+                    "type":  "ON NM",
+                    "sector":  "Mineração",
+                    "subsector":  "Minerais Metálicos",
+                    "currency":  "BRL",
+                    "logoUrl":  "https://icons.brapi.dev/icons/VALE3.svg",
+                    "lastQuoteDate":  "14/11/2025"
+                },
+    "price":  {
+                  "last":  65.22,
+                  "open":  65.14,
+                  "high":  65.77,
+                  "low":  64.91,
+                  "previousClose":  65.27,
+                  "change":  -0.05,
+                  "changePercent":  -0.077,
+                  "changePercent30d":  9.24,
+                  "changePercent12m":  23.12,
+                  "dayRange":  "64.91 - 65.77",
+                  "marketTime":  "2025-11-17T21:07:47.000Z",
+                  "min52w":  47.78,
+                  "max52w":  65.76,
+                  "currency":  "BRL"
+              },
+    "fundamentals":  {
+                         "valuation":  {
+                                           "pe":  9.81,
+                                           "pb":  1.36,
+                                           "psr":  1.39,
+                                           "pebit":  4.2,
+                                           "pAssets":  0.61,
+                                           "pWorkingCapital":  17.61,
+                                           "pNetCurrentAssets":  -1.72,
+                                           "evEbitda":  4.12,
+                                           "evEbit":  5.14
+                                       },
+                         "profitability":  {
+                                               "marginGross":  34.8,
+                                               "marginEbit":  33.1,
+                                               "marginNet":  13.7,
+                                               "roic":  16.7,
+                                               "roe":  13.8,
+                                               "ebitOverAssets":  14.6,
+                                               "assetTurnover":  0.44
+                                           },
+                         "dividends":  {
+                                           "dividendYield":  7,
+                                           "dividendPayout":  null,
+                                           "dividendOnEquity":  0.45
+                                       },
+                         "leverage":  {
+                                          "grossDebt":  98622000000,
+                                          "cashAndEquivalents":  32393000000,
+                                          "netDebt":  66229000000,
+                                          "currentRatio":  1.24,
+                                          "netDebtToEquity":  0.45,
+                                          "netDebtToEbitda":  0.7527476068305332
+                                      },
+                         "financials":  {
+                                            "revenue12m":  213320000000,
+                                            "revenue3m":  56701000000,
+                                            "ebit12m":  70589000000,
+                                            "ebit3m":  19766000000,
+                                            "ebitda12m":  87983009708.73787,
+                                            "netIncome12m":  30185000000,
+                                            "netIncome3m":  14617000000
+                                        },
+                         "growth":  {
+                                        "revenueCagr5y":  -7.7
+                                    },
+                         "marketData":  {
+                                            "marketCap":  296261000000,
+                                            "firmValue":  362490000000,
+                                            "shares":  4539010000,
+                                            "volumeAvg2m":  1248730000
+                                        }
+                     },
+    "insights":  {
+                     "thesis":  "Tese apoiada em dividend yield de 7,0% com histórico consistente. Ação acumula 23,1% em 12 meses; mercado precifica recuperação. Monitorar receita encolheu 7,7% nos últimos 5 anos",
+                     "drivers":  [
+                                     "Dividend yield de 7,0% com histórico consistente",
+                                     "ROIC elevado (16,7%) sinaliza disciplina de capital"
+                                 ],
+                     "risks":  [
+                                   "Receita encolheu 7,7% nos últimos 5 anos"
+                               ]
+                 },
+    "sources":  {
+                    "brapi":  {
+                                  "ok":  true,
+                                  "url":  "https://brapi.dev/api/quote/VALE3?range=1d\u0026interval=1d\u0026fundamental=false",
+                                  "fetchedAt":  "2025-11-17T22:25:51.562Z"
+                              },
+                    "fundamentus":  {
+                                        "ok":  true,
+                                        "fetchedAt":  "2025-11-17T22:41:47.218Z"
+                                    }
+                },
+    "raw":  {
+                "quote":  {
+                              "ticker":  "VALE3",
+                              "fetchedAt":  "2025-11-17T22:25:51.562Z",
+                              "source":  {
+                                             "url":  "https://brapi.dev/api/quote/VALE3?range=1d\u0026interval=1d\u0026fundamental=false"
+                                         },
+                              "company":  {
+                                              "shortName":  "VALE        ON      NM",
+                                              "longName":  "Vale S.A.",
+                                              "currency":  "BRL",
+                                              "logoUrl":  "https://icons.brapi.dev/icons/VALE3.svg"
+                                          },
+                              "price":  {
+                                            "last":  65.22,
+                                            "open":  65.14,
+                                            "high":  65.77,
+                                            "low":  64.91,
+                                            "previousClose":  65.27,
+                                            "change":  -0.05,
+                                            "changePercent":  -0.077,
+                                            "marketTime":  "2025-11-17T21:07:47.000Z",
+                                            "dayRange":  "64.91 - 65.77",
+                                            "fiftyTwoWeekLow":  48.77,
+                                            "fiftyTwoWeekHigh":  66.45
+                                        },
+                              "fundamentals":  {
+                                                   "marketCap":  277641378400,
+                                                   "priceEarnings":  9.322946175637393,
+                                                   "earningsPerShare":  7.0711024
+                                               }
+                          },
+                "fundamentus":  {
+                                    "ticker":  "VALE3",
+                                    "fetchedAt":  "2025-11-17T22:41:47.218Z",
+                                    "company":  {
+                                                    "name":  "VALE ON NM",
+                                                    "type":  "ON NM",
+                                                    "sector":  "Mineração",
+                                                    "subsector":  "Minerais Metálicos",
+                                                    "lastQuoteDate":  "14/11/2025"
+                                                },
+                                    "price":  {
+                                                  "close":  65.27,
+                                                  "changePercentDay":  -0.61,
+                                                  "changePercentMonth":  2.29,
+                                                  "changePercent30d":  9.24,
+                                                  "changePercent12m":  23.12,
+                                                  "min52w":  47.78,
+                                                  "max52w":  65.76
+                                              },
+                                    "marketData":  {
+                                                       "marketCap":  296261000000,
+                                                       "firmValue":  362490000000,
+                                                       "shares":  4539010000,
+                                                       "volumeAvg2m":  1248730000
+                                                   },
+                                    "valuation":  {
+                                                      "pe":  9.81,
+                                                      "pb":  1.36,
+                                                      "psr":  1.39,
+                                                      "pebit":  4.2,
+                                                      "pAssets":  0.61,
+                                                      "pWorkingCapital":  17.61,
+                                                      "pNetCurrentAssets":  -1.72,
+                                                      "evEbitda":  4.12,
+                                                      "evEbit":  5.14
+                                                  },
+                                    "profitability":  {
+                                                          "marginGross":  34.8,
+                                                          "marginEbit":  33.1,
+                                                          "marginNet":  13.7,
+                                                          "roic":  16.7,
+                                                          "roe":  13.8,
+                                                          "ebitOverAssets":  14.6,
+                                                          "assetTurnover":  0.44
+                                                      },
+                                    "dividends":  {
+                                                      "dividendYield":  7,
+                                                      "dividendPayout":  null,
+                                                      "dividendOnEquity":  0.45
+                                                  },
+                                    "leverage":  {
+                                                     "grossDebt":  98622000000,
+                                                     "cashAndEquivalents":  32393000000,
+                                                     "netDebt":  66229000000,
+                                                     "currentRatio":  1.24,
+                                                     "netDebtToEquity":  0.45,
+                                                     "netDebtToEbitda":  0.7527476068305332
+                                                 },
+                                    "financials":  {
+                                                       "revenue12m":  213320000000,
+                                                       "revenue3m":  56701000000,
+                                                       "ebit12m":  70589000000,
+                                                       "ebit3m":  19766000000,
+                                                       "ebitda12m":  87983009708.73787,
+                                                       "netIncome12m":  30185000000,
+                                                       "netIncome3m":  14617000000
+                                                   },
+                                    "growth":  {
+                                                   "revenueCagr5y":  -7.7
+                                               },
+                                    "raw":  {
+                                                "Papel":  "VALE3",
+                                                "Cotação":  "65,27",
+                                                "Tipo":  "ON NM",
+                                                "Data últ cot":  "14/11/2025",
+                                                "Empresa":  "VALE ON NM",
+                                                "Min 52 sem":  "47,78",
+                                                "Setor":  "Mineração",
+                                                "Max 52 sem":  "65,76",
+                                                "Subsetor":  "Minerais Metálicos",
+                                                "Vol $ méd (2m)":  "1.248.730.000",
+                                                "Valor de mercado":  "296.261.000.000",
+                                                "Últ balanço processado":  "30/09/2025",
+                                                "Valor da firma":  "362.490.000.000",
+                                                "Nro. Ações":  "4.539.010.000",
+                                                "P/L":  "9,81",
+                                                "LPA":  "6,65",
+                                                "P/VP":  "1,36",
+                                                "VPA":  "48,06",
+                                                "P/EBIT":  "4,20",
+                                                "Marg. Bruta":  "34,8%",
+                                                "PSR":  "1,39",
+                                                "Marg. EBIT":  "33,1%",
+                                                "P/Ativos":  "0,61",
+                                                "Marg. Líquida":  "13,7%",
+                                                "P/Cap. Giro":  "17,61",
+                                                "EBIT / Ativo":  "14,6%",
+                                                "P/Ativ Circ Liq":  "-1,72",
+                                                "ROIC":  "16,7%",
+                                                "Div. Yield":  "7,0%",
+                                                "ROE":  "13,8%",
+                                                "EV / EBITDA":  "4,12",
+                                                "Liquidez Corr":  "1,24",
+                                                "EV / EBIT":  "5,14",
+                                                "Div Br/ Patrim":  "0,45",
+                                                "Cres. Rec (5a)":  "-7,7%",
+                                                "Giro Ativos":  "0,44",
+                                                "Ativo":  "484.953.000.000",
+                                                "Dív. Bruta":  "98.622.000.000",
+                                                "Disponibilidades":  "32.393.000.000",
+                                                "Dív. Líquida":  "66.229.000.000",
+                                                "Ativo Circulante":  "87.682.000.000",
+                                                "Patrim. Líq":  "218.127.000.000",
+                                                "Receita Líquida":  [
+                                                                        "213.320.000.000",
+                                                                        "56.701.000.000"
+                                                                    ],
+                                                "EBIT":  [
+                                                             "70.589.000.000",
+                                                             "19.766.000.000"
+                                                         ],
+                                                "Lucro Líquido":  [
+                                                                      "30.185.000.000",
+                                                                      "14.617.000.000"
+                                                                  ]
+                                            }
+                                }
+            }
+}
